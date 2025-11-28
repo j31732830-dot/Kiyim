@@ -1,0 +1,48 @@
+{
+  "meta": {
+    "next_product_id": 2,
+    "next_order_id": 1,
+    "next_order_item_id": 1
+  },
+  "products": [
+    {
+      "id": 1,
+      "name": "Kiyim",
+      "category": "👗 Qizlar kiyimlari",
+      "price": 15000,
+      "desc": "fijewdjioawhd qwoikhdfi ah oiashfuidfkhkdjfbsjfbsdjf sdkfj sdf dksj dhsdfjsdkfhsdjkf sdfk",
+      "photo": "AgACAgIAAxkBAAICCWkpaZoYMFwLhTdb0sxY4SE2r4spAAJCDGsbUaRRSRwAAZDPfZY6EQEAAwIAA3kAAzYE"
+    }
+  ],
+  "orders": [],
+  "order_items": [],
+  "settings": {
+    "categories": [
+      "👗 Qizlar kiyimlari",
+      "🧥 O‘g‘il bolalar kiyimlari",
+      "🍼 Yangi tug‘ilganlar",
+      "👟 Poyabzallar",
+      "🧸 O‘yinchoqlar",
+      "🎒 Aksessuarlar"
+    ],
+    "menu_rows": [
+      [
+        "👗 Qizlar kiyimlari",
+        "🧥 O‘g‘il bolalar kiyimlari"
+      ],
+      [
+        "🍼 Yangi tug‘ilganlar",
+        "👟 Poyabzallar"
+      ],
+      [
+        "🧸 O‘yinchoqlar",
+        "🎒 Aksessuarlar"
+      ],
+      [
+        "/cart",
+        "📞 Aloqa",
+        "ℹ️ Ma'lumot"
+      ]
+    ]
+  }
+}
