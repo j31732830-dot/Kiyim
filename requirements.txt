@@ -1,0 +1,44 @@
+# Telegram Bot
+aiogram==3.13.1
+
+# Async HTTP requests
+aiohttp==3.10.5
+
+# Environment variables
+python-dotenv==1.0.1
+
+# Database (agar SQLite'ga o'tsangiz)
+aiosqlite==0.20.0
+
+# Logging (optional, lekin tavsiya etiladi)
+python-json-logger==2.0.7
+
+# Testing (development uchun)
+pytest==8.3.3
+pytest-asyncio==0.24.0
+
+# Code quality (development uchun)
+black==24.8.0
+flake8==7.1.1
+mypy==1.11.2
+
+# Payment systems (kerak bo'lsa)
+# payme-pkg==1.0.0  # Payme SDK (agar mavjud bo'lsa)
+# click-uz==0.1.0    # Click SDK (agar mavjud bo'lsa)
+requests==2.32.3     # HTTP requests uchun
+
+# Cryptography (to'lov signature tekshirish uchun)
+cryptography==43.0.1
+
+# Timezone support
+pytz==2024.2
+
+# Image processing (agar kerak bo'lsa)
+Pillow==10.4.0
+
+# Excel export (admin uchun hisobotlar)
+openpyxl==3.1.5
+
+# Redis (agar katta keshlash kerak bo'lsa)
+# redis==5.1.1
+# aioredis==2.0.1
