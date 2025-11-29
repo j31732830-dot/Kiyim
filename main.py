@@ -25,7 +25,7 @@ from database import (
     set_menu_rows as update_menu_rows_in_db,
 )
 
-BOT_TOKEN = "8157782936:AAHhp9dImUyPG53oVqP1F56dOQ2GR1iDgt4"
+BOT_TOKEN = "8204649083:AAFcQQS2VfP9AqUim1q-Ha-WwDA9mjt5tlY"
 ADMIN_ID = os.getenv("ADMIN_ID")
 ADMIN_PASSWORD = os.getenv("ADMIN_PASSWORD", "123login123")
 ALLOWED_STATUSES = {"pending", "processing", "paid", "shipped", "delivered", "cancelled"}
